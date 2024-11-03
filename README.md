@@ -6,3 +6,4 @@ If the mutation rate is too low, the algorithm may lack the ability to explore n
 If the population is too small, the algorithm may lack diversity and thus fall into a local optimum.
 
 But I modified the data and it only changed from 15000 to 14000.
+### Can't solve 'china' problem ,soft will crash
